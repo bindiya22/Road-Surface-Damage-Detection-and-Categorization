@@ -8,4 +8,5 @@ indicates that the proposed model possesses a strong detection and categorizatio
 
 Models used - YOLOv12, MaxViT, Swin |
 Dataset used - https://www.kaggle.com/datasets/aliabdelmenam/rdd-2022 |
-Hardware used in training- Transformer models: Kaggle and Google Collab T4 GPU & YOLO: NVIDIA GPU
+Hardware used in training- For training Transformer models: Kaggle- P100 GPU | Google Collab- T4 GPU | 
+For training YOLOv12: NVIDIA RTX A2000 GPU
